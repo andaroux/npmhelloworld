@@ -1,0 +1,19 @@
+{
+  "name": "helloworldandaroux",
+  "version": "1.0.0",
+  "description": "prints Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andaroux/npmhelloworld.git"
+  },
+  "author": "Andrew Qin <androoux@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andaroux/npmhelloworld/issues"
+  },
+  "homepage": "https://github.com/andaroux/npmhelloworld#readme"
+}
