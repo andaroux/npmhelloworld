@@ -10,11 +10,9 @@ A Node.js package prints "Hello World" to the console.
 
 ### Javascript
 
-'''javascript
 var helloWorld = require('helloworldandaroux');
 
 helloWorld.start();
-'''
 
 Then, in a shell:
 
