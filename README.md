@@ -4,7 +4,9 @@ A Node.js package prints "Hello World" to the console.
 
 ## Installation
 
-'npm install helloworldandaroux'
+In a shell:
+
+npm install helloworldandaroux
 
 ## Usage
 
